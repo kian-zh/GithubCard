@@ -4,4 +4,5 @@
 #### 此外，我还是 <b><a href="https://gisphere.info/">GISphere</a></b> 和 <b><a href="https://www.csl-sh.org/">CSL-SH</a></b> 的成员
 #### 在 <b><a href="http://sgis.site">sgis.site</a></b> 了解我更多
 # 
-  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kian-zh&show_icons=true&theme=vue)  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kian-zh)](https://github.com/kian-zh/github-readme-stats)
+
